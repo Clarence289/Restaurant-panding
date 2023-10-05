@@ -13,8 +13,8 @@
 To get a copy of this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
-   ```sh
-  git clone https://github.com/Clarence289/NewsApp.git
+   ```sh  git clone https://github.com/Clarence289/NewsApp.git
+ 
                                                                                                                              
                                                                                                                                          
                                                                                                                                          
